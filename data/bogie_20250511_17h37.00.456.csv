@@ -1,0 +1,3 @@
+block,trial,trial_type,taps_start_loc_during_fix,taps_end_loc_during_fix,taps_on_lever_during_fix,taps_on_lever_s_during_fix,bar_orientation,target_xy,cti,rt,acc,time,pulses
+0,1,target,"[(497, 336), (1097, 903)]",[],"[0, 1]",[0.5],vertical,"(390.0, 262.0)",0.8166666666666667,0.46,1,0.054,1
+0,2,target,"[(1143, 839)]",[],[1],[0.5],horizontal,"(890.0, 762.0)",1.5666666666666667,0.479,1,7.815,1

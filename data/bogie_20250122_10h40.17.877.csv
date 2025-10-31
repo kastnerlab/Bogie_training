@@ -1,0 +1,4 @@
+block,practice,trial,trial_type,taps_start_loc_during_fix,taps_end_loc_during_fix,taps_on_lever_during_fix,taps_on_lever_s_during_fix,bar_orientation,target_xy,cti,rt,acc,time
+1,True,1,catch,"[(1136, 831)]",[],[1],[0.45],vertical,"(890.0, 262.0)",1.35,nan,1,0.379
+1,True,2,target,"[(1136, 830)]",[],[1],[0.5166666666666666],vertical,"(390.0, 762.0)",1.0,0.482,1,5.669
+1,True,3,target,"[(1065, 876)]",[],[1],[0.35],vertical,"(890.0, 262.0)",0.8166666666666667,0.314,1,17.307

@@ -1,0 +1,7 @@
+block,practice,trial,change_interval_s,change_interval_frames,taps_start_time_during_fix,taps_end_time_during_fix,taps_start_loc_during_fix,taps_end_loc_during_fix,taps_on_lever_during_fix,taps_on_lever_frame_during_fix,taps_on_lever_s_during_fix,fix_xy,bar_orientation,target_xy,rt,acc
+1,True,1,0.347,20,[],[],"[(1202, 887)]",[],[1],[53],[0.8833333333333333],"[640.0, 512.0]",horizontal,"(890.0, 262.0)",0,1
+1,True,2,1.095,65,[],[],"[(1202, 888)]",[],[1],[73],[1.2166666666666666],"[640.0, 512.0]",horizontal,"(890.0, 262.0)",0,1
+1,True,3,0.4,24,[],[],"[(1172, 927)]",[],[1],[68],[1.1333333333333333],"[640.0, 512.0]",vertical,"(390.0, 762.0)",0,1
+1,True,4,1.435,86,[],[33299],"[(1165, 892)]","[(1165, 892)]",[1],[54],[0.9],"[640.0, 512.0]",horizontal,"(890.0, 262.0)",0,0
+1,False,1,0.908,54,[],[],"[(1172, 887)]",[],[1],[70],[1.1666666666666667],"[640.0, 512.0]",horizontal,"(390.0, 762.0)",0,1
+1,False,2,0.468,28,[],[],"[(1168, 884)]",[],[1],[51],[0.85],"[640.0, 512.0]",vertical,"(390.0, 262.0)",0,1

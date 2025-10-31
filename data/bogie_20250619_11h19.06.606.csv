@@ -1,0 +1,8 @@
+block,trial,trial_type,taps_start_loc_during_fix,taps_end_loc_during_fix,taps_on_lever_during_fix,taps_on_lever_s_during_fix,bar_orientation,target_xy,cti,rt,acc,time,pulses,fa_rate_recent100
+0,1,catch,"[(1159, 822)]",[],[1],[],horizontal,"(390.0, 262.0)",1.7,nan,1,0.098,1,0.0
+0,2,catch,"[(1159, 822)]",[],[1],[],vertical,"(890.0, 262.0)",1.7,nan,1,5.551,1,0.0
+0,3,invalid_same_bar,"[(1159, 822)]",[],[1],[0.4],horizontal,"(890.0, 262.0)",0.8833333333333333,0.363,1,10.617,1,0.0
+0,4,valid,"[(1159, 822)]",[],[1],[0.3833333333333333],horizontal,"(890.0, 762.0)",1.4833333333333334,0.349,1,15.214,2,0.0
+0,5,invalid_same_bar,"[(1159, 822)]",[],[1],[0.4166666666666667],horizontal,"(390.0, 262.0)",1.4,0.382,1,20.786,2,0.0
+0,6,invalid_same_bar,"[(1159, 822)]",[],[1],[0.43333333333333335],vertical,"(890.0, 762.0)",0.9,0.4,1,25.826,2,0.0
+0,7,valid,"[(1159, 822)]",[],[1],[0.3333333333333333],vertical,"(390.0, 262.0)",1.05,0.298,1,30.509,3,0.0

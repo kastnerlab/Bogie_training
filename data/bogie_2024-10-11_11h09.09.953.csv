@@ -1,0 +1,2 @@
+block,practice,trial,change_interval_s,change_interval_frames,taps_start_time_during_fix,taps_end_time_during_fix,taps_start_loc_during_fix,taps_end_loc_during_fix,taps_on_lever_during_fix,taps_on_lever_frame_during_fix,taps_on_lever_s_during_fix,fix_xy,bar_orientation,target_xy,cti,rt,acc,time
+1,True,1,1.157,69,[],[],"[(1106, 842)]",[],[1],[93],[1.55],"[640.0, 512.0]",horizontal,"(890.0, 762.0)",[0.9666666666666667],[0.385],1,0.378
